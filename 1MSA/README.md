@@ -1,6 +1,6 @@
 # Inhalzverzeichnis zum Mathestoff für 1.SA
 
-## [Formelsammlung](./Formelsammlung.md)
+## [Formelsammlung](./../Formelsammlung.md)
 
 - [ ] [limes shit](./Limes.md)
 - [ ] [Diffarenzrechnung](./Diffarenzialrechnung.md)
@@ -9,8 +9,7 @@
   - [ ] Grenzwert von Reihen
   - [ ] Monogameie einer Folge
   - [ ] Endliche Geometrische Reihe
-  - [ ] Geometrische Folge
-    - [ ] Rekosives BG
-    - [ ] Explizites BG
+  - [ ] [Geometrische Folge](./GeometrischeFolge.md)
   - [ ] Arithmetische Reihe
+  - [ ] [Arithmetrische Folge](./ArethmetrischeFolge.md)
 - [ ] Finanzmathematik
